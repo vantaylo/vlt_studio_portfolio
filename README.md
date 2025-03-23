@@ -160,9 +160,9 @@ The purpose of this portfolio is to:
 
 ### **Resources**
 - [React Documentation](https://reactjs.org/docs)
-- [TypeScript](https://www.typescriptlang.org/docs/)
+- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [Next.js Documentation](https://nextjs.org/docs)
-- [TailwindCSS](https://tailwindcss.com/)
-- [GSAP](https://gsap.com/)
+- [TailwindCSS Documentation](https://tailwindcss.com/)
+- [GSAP Documentation](https://gsap.com/)
 - [Node.js Documentation](https://nodejs.org/en/docs/)
 - [Express.js Documentation](https://expressjs.com/en/starter/installing.html)
