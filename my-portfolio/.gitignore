@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# dotenv environment variables file
+.env
+
+# next.js build output
+.next
