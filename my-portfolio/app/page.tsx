@@ -1,3 +1,11 @@
+import AboutMe from "../src/Components/AboutMe";
+import ScratchGame from "../src/Components/ScratchGame";
+
 export default function Page() {
-  return <h1>Welcome to my portfolio!</h1>
+  return (
+    <div>
+      <AboutMe />
+      <ScratchGame />
+    </div>
+  );
 }
